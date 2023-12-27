@@ -6,7 +6,7 @@ https://github.community/t/support-theme-context-for-images-in-light-vs-dark-mod
 <a href="https://github.com/kaiicheng/Github-Stats">
 <img src="https://github.com/kaiicheng/Github-Stats/blob/master/generated/overview.svg#gh-dark-mode-only" />
 <img src="https://github.com/kaiicheng/Github-Stats/blob/master/generated/languages.svg#gh-dark-mode-only" />
-<img src="https://github.com/kaiicheng/Github-Stats/blob/master/generated/languages.svg#gh-light-mode-only" />
+<img src="https://github.com/kaiicheng/Github-Stats/blob/master/generated/overview.svg#gh-light-mode-only" />
 <img src="https://github.com/kaiicheng/Github-Stats/blob/master/generated/languages.svg#gh-light-mode-only" />
 
 </a>
